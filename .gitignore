@@ -1,0 +1,4 @@
+*.pyc
+nb/.ipynb*
+data/Features/INTC_2023-03-13_LOB_features.pkl
+*DS_store
